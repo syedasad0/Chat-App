@@ -1,0 +1,8 @@
+{
+    "mysqlCred":{
+        "HOST":"localhost",
+        "USER": "root",
+        "PASSWORD": "",
+        "DATABASE":"cred"
+    }
+}
